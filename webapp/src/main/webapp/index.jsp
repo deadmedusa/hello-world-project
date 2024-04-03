@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New damn user Register for DevOps Learning</h1>
-    <p>Yo, :wqfill in this form to create an account.</p>
+    <p>Yo, fill in this form to create an account.</p>
     <hr>
 
     <label for:="Name"><b>Enter Name</b></label>
