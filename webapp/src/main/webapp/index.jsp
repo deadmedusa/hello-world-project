@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New damn user Register for DevOps Learning</h1>
+    <h1>New wonderful user Register for this bloody DevOps Learning</h1>
     <p>Yo, fill in this form to create an account.</p>
     <hr>
 
@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy conditions</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
